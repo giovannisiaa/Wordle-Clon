@@ -42,7 +42,7 @@ Además, el sistema posee un diseño responsivo el cual es adaptable a distintos
   </tr>
 </table>
 
-## :link: Enlace del [proyecto](https://giovannisia.github.io/Wordle-Clon/)
+## :link: Enlace del [proyecto](https://giovannisiaa.github.io/Wordle-Clon/)
 
 ## :video_game: Imágenes del sistema 
 
